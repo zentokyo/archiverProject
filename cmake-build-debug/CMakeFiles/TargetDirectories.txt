@@ -1,3 +1,0 @@
-C:/Users/cherr/CLionProjects/archiverproject/cmake-build-debug/CMakeFiles/archiverProject.dir
-C:/Users/cherr/CLionProjects/archiverproject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/cherr/CLionProjects/archiverproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
