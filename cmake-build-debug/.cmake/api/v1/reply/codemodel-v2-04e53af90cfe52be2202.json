@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/user/CLionProjects/archiverProject/cmake-build-debug",
-		"source" : "C:/Users/user/CLionProjects/archiverProject"
+		"build" : "C:/Users/cherr/CLionProjects/archiverproject/cmake-build-debug",
+		"source" : "C:/Users/cherr/CLionProjects/archiverproject"
 	},
 	"version" : 
 	{
